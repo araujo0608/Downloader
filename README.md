@@ -5,6 +5,22 @@ Hey guys, this is a simple program written in python3 that downloads video or au
 You can see it here: [Projeto_garcom](https://github.com/SrBorges/Projeto_garcom)
 
 
+## REQUIREMENTS
+
+* `python3`
+
+* `pytube` module
+	`pip3 install pytube3 --upgrade`
+
+* `tkinter`
+	Comes by default with python
+
+
+Before run the program, you **should** change the directory folder where the files .mp3 and .mp4 will be saved
+
+![change this](photos/change.png)
+
+
 ## AN IMPORTANT THING
 
 
