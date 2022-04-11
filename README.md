@@ -10,10 +10,10 @@ You can see it here: [Projeto_garcom](https://github.com/SrBorges/Projeto_garcom
 * `python3`
 
 * `pytube` module
-	`pip3 install pytube3 --upgrade`
+	- `pip3 install pytube3 --upgrade`
 
 * `tkinter`
-	Comes by default with python
+	- Comes by default with python
 
 
 Before run the program, you **should** change the directory folder where the files .mp3 and .mp4 will be saved
