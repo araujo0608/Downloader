@@ -5,8 +5,8 @@ from functions import *
 root = Tk()
 
 root.title('Downloader YouTube')
-root.geometry("650x350+400+300")# width x height + positionX + positionY
-root.resizable(True, True)# height, width
+root.geometry("650x350+400+300")
+root.resizable(True, True)
 
 lblTitle = Label(root, text='-------------------- MENU --------------------', font='bold')
 lblTitle.config(font=40)

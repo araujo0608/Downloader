@@ -4,6 +4,7 @@ Hey guys, this is a simple program written in python3 that downloads video or au
 
 You can see it here: [Projeto_garcom](https://github.com/SrBorges/Projeto_garcom)
 
+<br>
 
 ## REQUIREMENTS
 
@@ -20,6 +21,7 @@ Before run the program, you **should** change the directory folder where the fil
 
 ![change this](photos/change.png)
 
+<br>
 
 ## AN IMPORTANT THING
 
@@ -31,3 +33,15 @@ Before run the program, you **should** change the directory folder where the fil
 **DONT USE ANY OTHER LINK**
 
 ![wrong url](photos/wrong-url-youtube.png "Wrong URL")
+
+
+<br>
+
+## HOW RUN
+
+1. Clone the repository
+2. Change the directory folder where the files .mp3 and .mp4 will be saved
+3. Install python3 and pytube3
+4. Run `python3 main.py`
+
+![final](photos/final.png)

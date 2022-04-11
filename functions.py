@@ -7,8 +7,8 @@ save_path_audio = "/home/eduardo/Musica" # Change this
 def spamMessage(message):
 	top = Toplevel()
 	
-	top.geometry("350x150+420+400")# width x height + positionX + positionY
-	top.resizable(True, True)# height, width
+	top.geometry("350x150+420+400")
+	top.resizable(True, True)
 
 	lblMsg = Label(top, text=str(message), font='bold')
 	lblMsg.config(font=40)
@@ -17,8 +17,8 @@ def spamMessage(message):
 def successMessageVideo():
 	top = Toplevel()
 	
-	top.geometry("350x150+420+400")# width x height + positionX + positionY
-	top.resizable(True, True)# height, width
+	top.geometry("350x150+420+400")
+	top.resizable(True, True)
 
 	lblMsg = Label(top, text='Video Downloaded!\n Saved in ' + save_path_video, font='bold')
 	lblMsg.config(font=40)
@@ -27,8 +27,8 @@ def successMessageVideo():
 def successMessageAudio():
 	top = Toplevel()
 	
-	top.geometry("350x150+420+400")# width x height + positionX + positionY
-	top.resizable(True, True)# height, width
+	top.geometry("350x150+420+400")
+	top.resizable(True, True)
 
 	lblMsg = Label(top, text='Audio Downloaded!\n Saved in ' + save_path_audio, font='bold')
 	lblMsg.config(font=40)
