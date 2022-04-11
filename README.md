@@ -5,5 +5,11 @@ Hey guys, this is a simple program written in python3 that downloads video or au
 You can see it here: [Projeto_garcom](https://github.com/SrBorges/Projeto_garcom)
 
 
-# AN IMPORTANT THING
+## AN IMPORTANT THING
 
+
+**YOU SHOULD USE THIS URL**
+![correct url](photos/url-youtube.png "Correct URL")
+
+**DONT USE ANY OTHER LINK**
+![wrong url](photos/wrong-url-youtube.png "Wrong URL")
